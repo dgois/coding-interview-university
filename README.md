@@ -1,3 +1,9 @@
+# What I want?
+
+I forked this repository because I want to review the Computer Science subjects and it is very well structured here. I will keep my practice here [put here the folder].
+
+My intention is not primarily to get hired by any of the giants' tech companies but learn in a structured way.
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
